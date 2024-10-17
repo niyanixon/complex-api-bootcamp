@@ -1,0 +1,35 @@
+body{
+    background: rgb(254, 200, 130);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+img{
+    height: 500px;
+    border-radius: 10px;
+}
+.instructions{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+input{
+    width: 30%;
+    height: 40px;
+    font-size: 25px;
+    margin: auto;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+button{
+    height: 40px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 30%;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
