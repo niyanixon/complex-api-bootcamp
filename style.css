@@ -1,35 +1,30 @@
 body{
     background: rgb(254, 200, 130);
     text-align: center;
+    font-family: "Shrikhand", serif;
+    word-spacing: 5px;
+    letter-spacing: 2px;
 }
 h1{
-    font-size: 50px;
-}
-img{
-    height: 500px;
+    font-size: 40px;
+    background: rgb(172, 102, 49);
+    width: 65%;
+    padding: 20px;
     border-radius: 10px;
-}
-.instructions{
-    width: 80%;
     margin: auto;
-    margin-top: 10px;
+    color: white;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.766) ;
 }
-input{
-    width: 30%;
-    height: 40px;
+
+li{
+    display: inline-block; 
+    background:rgb(172, 102, 49) ;
+    margin: 20px; 
+    padding: 15px; 
+    vertical-align: top;
+    border-radius: 10px;
+    width: 40%;
     font-size: 25px;
-    margin: auto;
-    border-radius: 10px;
-    border: none;
-    text-align: center;
-}
-button{
-    height: 40px;
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-    width: 30%;
-    border-radius: 10px;
-    border: none;
-    font-size: 20px;
+    color: white;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.766) ;
 }
